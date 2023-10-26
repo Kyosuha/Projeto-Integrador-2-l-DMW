@@ -68,6 +68,24 @@ header {
     align-items: center;
     gap: 2rem;
 }
+.hero-PP {
+    display: grid;
+    height: 100%;
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(245.59deg, #04040e 0%, #130c30 28.53%, #423994 75.52%);
+    position: relative;
+    align-items: center;
+    gap: 2rem;
+}
+
+.hero-PP p{
+    color: white;
+}
+
+.hero-PP ul{
+    color: white;
+}
 
 .hero-text h5 {
     font-size: 14px;
