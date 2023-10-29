@@ -87,6 +87,10 @@ header {
     color: white;
 }
 
+.header >li{
+    color: white;
+}
+
 .hero-text h5 {
     font-size: 14px;
     font-weight: 400;
