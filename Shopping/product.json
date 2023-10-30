@@ -2,76 +2,76 @@
     {
         "id": 1,
         "name": "Audi Q8 e-tron 55 Prestige",
-        "price": "90,050",
+        "price": "90.055",
         "image": "images/1.webp"
     },
     {
         "id": 2,
         "name": "Audi Q8 e-tron Premium",
-        "price": "78,019",
+        "price": "78.019",
         "image": "images/2.webp"
     },
     {
         "id": 3,
         "name": "Audi RS e-tron GT Base",
-        "price": "140,290",
+        "price": "140.295",
         "image": "images/3.webp"
     }
     ,
     {
         "id": 4,
         "name": "BMW iX xDrive50",
-        "price": "86,660",
+        "price": "86.665",
         "image": "images/4.webp"
     },
     {
         "id": 5,
         "name": "BMW i4 Gran Coupe M50",
-        "price": "74,245",
+        "price": "74.245",
         "image": "images/5.webp"
     },
     {
         "id": 6,
         "name": "BMW iX M60",
-        "price": "121,395",
+        "price": "121.395",
         "image": "images/6.webp"
     },
 
     {
         "id": 7,
         "name": "Ford Transit-350 Base",
-        "price": "51,965",
+        "price": "51.965",
         "image": "images/7.webp"
     },
     {
         "id": 8,
         "name": "Ford Mustang Mach-E Premium",
-        "price": "44,790",
+        "price": "44.795",
         "image": "images/8.webp"
     },
     {
         "id": 9,
         "name": "Ford F-150 Lightning XLT",
-        "price": "55,425",
+        "price": "55.425",
         "image": "images/9.webp"
     }
     ,
     {
         "id": 10,
         "name": "Model X",
-        "price": "68,590",
+        "price": "68.595",
         "image": "images/10.avif"
     },
     {
         "id": 11,
         "name": "Model 3",
-        "price": "65,090",
+        "price": "65.095",
         "image": "images/11.avif"
     },
     {
         "id": 12,
         "name": "Model S",
-        "price": "71,090",
+        "price": "71.095",
         "image": "images/12.avif"
     }
 ]
