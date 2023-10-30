@@ -1,10 +1,10 @@
 let products = {
     data: [
       {
-        productName: "Regular White T-Shirt",
-        category: "Topwear",
-        price: "30",
-        image: "Model3.png",
+        productName: "Ford F-150 Lightning XLT",
+        category: "Ford",
+        price: "55,425",
+        image: "Ford-F.webp",
       },
       {
         productName: "Beige Short Skirt",
