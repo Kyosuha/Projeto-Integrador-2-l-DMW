@@ -8,6 +8,15 @@ a{
     text-decoration: none;
     color: white;
 }
+
+h2{
+    color: white;
+}
+
+.price{
+    color:white;
+}
+
 .container{
     width: 1200px;
     margin: auto;
