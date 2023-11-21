@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Audi Q8 e-tron 55 Prestige",
         "price": "90.055",
-        "image": "images/1.webp"
+        "image": "images/1.jpg"
     },
     {
         "id": 2,
@@ -15,20 +15,20 @@
         "id": 3,
         "name": "Audi RS e-tron GT Base",
         "price": "140.295",
-        "image": "images/3.webp"
+        "image": "images/3.jpg"
     }
     ,
     {
         "id": 4,
         "name": "BMW iX xDrive50",
         "price": "86.665",
-        "image": "images/4.webp"
+        "image": "images/4.jpg"
     },
     {
         "id": 5,
         "name": "BMW i4 Gran Coupe M50",
         "price": "74.245",
-        "image": "images/5.webp"
+        "image": "images/5.jpg"
     },
     {
         "id": 6,
@@ -60,18 +60,18 @@
         "id": 10,
         "name": "Model X",
         "price": "68.595",
-        "image": "images/10.avif"
+        "image": "images/10.webp"
     },
     {
         "id": 11,
         "name": "Model 3",
         "price": "65.095",
-        "image": "images/11.avif"
+        "image": "images/11.webp"
     },
     {
         "id": 12,
         "name": "Model S",
         "price": "71.095",
-        "image": "images/12.avif"
+        "image": "images/12.webp"
     }
 ]
